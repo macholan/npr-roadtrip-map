@@ -1,0 +1,12 @@
+name: npr_member_stations_map
+title:
+username:
+account: macholan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 271486
+bundleId: 1206557
+url: https://macholan.shinyapps.io/npr_member_stations_map/
+when: 1517724077.21818
+asMultiple: FALSE
+asStatic: FALSE
